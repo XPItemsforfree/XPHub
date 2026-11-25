@@ -13,9 +13,8 @@ The official Start Menu for **XPItemsforfree**. Every `XP` tool, utility, and ex
 
 | Program | What it does | Status |
 | :--- | :--- | :--- |
-| 🛠️ **[XPApp1](#)** | *Short 1-line description of your first tool.* | `Working` |
-| 🎨 **[XPApp2](#)** | *Short 1-line description of your second tool.* | `Working` |
-| 🧪 **[XPApp3](#)** | *Short 1-line description of an upcoming tool.* | `In Progress` |
+| 🛠️ **[XPInstallBuilder](#)** | *Short 1-line description of your first tool.* | `Working` |
+| 🧪 **[XPGameBuilder](#)** | *Short 1-line description of an upcoming tool.* | `In Progress` |
 
 *(Replace the `#` links with the actual URLs to your repos or specific release tags!)*
 

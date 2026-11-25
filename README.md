@@ -11,8 +11,8 @@ The official Start Menu for **XPItemsforfree**. Every `XP` tool, utility, and ex
 
 ### 🖥️ Start Menu (`All Programs`)
 
-| Program | What it does | Status |
-| :--- | :--- | :--- |
+| Program | Status |
+| :--- | :--- |
 | 🛠️ **[XPInstallBuilder](https://github.com/XPItemsforfree/XPHub/releases/tag/XPInstallBuilder)** | *Short 1-line description of your first tool.* | `Working` |
 | 🧪 **[XPGameBuilder](#)** | *Short 1-line description of an upcoming tool.* | `In Progress` |
 
